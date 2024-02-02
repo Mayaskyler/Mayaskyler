@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...😊❤️🌹💃✅💪🤔😂
 - ⚡ Fun fact: i love music, sports, exploring, and making new friends from round the world 😊
 
-<!---
+feel free to work and share ideas with me, together we can make a better world 
 git remote add origin https://github.com/Mayaskyler/expert-chainsaw.git
 git branch -M main
 git push -u origin main
